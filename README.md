@@ -1,5 +1,5 @@
 ## What is 9atrat Amal?
-9atrat Amal is "**قطره امل**" written with latin alphabets, which is an Arabic word that means "**let's donate**".
+9atrat Amal is "**قطره امل**" written with latin alphabets.
 
 9atrat Amal is an open source blood donation platform that connects blood seekers with blood donors in their region.
 
